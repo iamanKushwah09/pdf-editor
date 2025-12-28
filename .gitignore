@@ -9,7 +9,7 @@ __pycache__/
 *.pyd
 .pytest_cache/
 .mypy_cache/
-
+venv
 # ===============================
 # Node / React
 # ===============================
@@ -72,7 +72,7 @@ storage/outputs/
 
 # testing
 /coverage
-
+/venv
 # production
 /build
 
